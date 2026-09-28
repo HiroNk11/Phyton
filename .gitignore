@@ -11,3 +11,12 @@ build/
 *.egg-info/
 data/*.csv
 logs/
+.env
+.env.*
+!.env.example
+!.env.sample
+secrets.json
+*.pfx
+*.p12
+*.key
+*.pem
