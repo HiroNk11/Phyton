@@ -1,6 +1,6 @@
-# Ejercicios Python - Portfolio
+# Ejercicios de Python
 
-Repositorio de practica con ejemplos progresivos en Python, pensado para mostrar fundamentos, buenas practicas y pequenos proyectos utiles en un portfolio.
+Ejercicios de Python sobre archivos CSV, programación orientada a objetos, consultas sobre colecciones y pruebas con unittest. Los ejemplos usan la biblioteca estándar y se ejecutan por separado.
 
 ## Estructura
 
@@ -58,3 +58,4 @@ python scripts/run_tests.py
 ## Requisitos
 
 Los ejemplos usan solo la libreria estandar de Python. No hace falta instalar paquetes externos.
+
