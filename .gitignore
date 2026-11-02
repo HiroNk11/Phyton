@@ -20,3 +20,17 @@ secrets.json
 *.p12
 *.key
 *.pem
+
+# Private configuration and generated files
+.vs/
+bin/
+obj/
+node_modules/
+artifacts/
+!.env.*.example
+*.bak
+*.mdf
+*.ldf
+*.suo
+*.user
+*.log
